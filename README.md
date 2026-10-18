@@ -28,5 +28,7 @@ Run the program:
 
 ## Learning Outcomes
 Learned basic data preprocessing, model training, prediction, evaluation, and visualization.
+**Note:** This is an educational project using a small sample dataset. Predictions are not intended for real academic decisions.
+<img width="1400" height="1014" alt="image" src="https://github.com/user-attachments/assets/596cb717-742a-48f3-b614-c1c6cf33223b" />
 
 
