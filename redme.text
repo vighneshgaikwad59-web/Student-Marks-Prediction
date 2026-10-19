@@ -1,0 +1,5 @@
+Student-Marks-Prediction/
+│
+├── student_marks_prediction.py
+├── README.md
+└── requirements.txt
