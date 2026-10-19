@@ -17,14 +17,6 @@ This beginner-friendly machine learning project predicts student marks based on 
 5. Predict marks and evaluate model performance.
 6. Visualize the results.
 
-## How to Run
-Install dependencies:
-
-`pip install -r requirements.txt`
-
-Run the program:
-
-`python student_marks_prediction.py`
 
 ## Learning Outcomes
 Learned basic data preprocessing, model training, prediction, evaluation, and visualization.
